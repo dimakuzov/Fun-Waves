@@ -1,8 +1,8 @@
-# Fun-Waves
+# Fun Waves
 
 #### My experiment with Unity ML-Agents
 
-#### All unity3d assets you may download on the link: [google drive](https://drive.google.com/open?id=19xbnz-WTdb1rfKvBT_-O10kGyt4Oj9qX)
+#### All unity3d assets you may download on the link: [google drive](https://drive.google.com/open?id=19xbnz-WTdb1rfKvBT_-O10kGyt4Oj9qX).
 
 ![](https://github.com/dimakuzov/Fun-Waves/blob/master/Fun-Waves.png)
 
